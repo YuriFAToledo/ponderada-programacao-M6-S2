@@ -16,3 +16,6 @@ Aqui segue o resultado da consulta sql pedida:
 Registra-se então, endpoint do banco de dados:
 db-ponderada.cwvwgbmsoulb.us-east-1.rds.amazonaws.com
 porta padrão 3306.
+
+User admin
+Senha: admin123#
